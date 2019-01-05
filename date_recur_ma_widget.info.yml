@@ -1,0 +1,7 @@
+name: Date Recur MA Widget
+type: module
+description: Provides a field widget for recurring dates field built using Drupal AJAX.
+core: 8.x
+dependencies:
+  - date_recur:date_recur
+
